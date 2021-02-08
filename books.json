@@ -1,0 +1,25 @@
+[{
+    "buku_id" : 1,
+    "isbn" : 9786027870413,
+    "judul" : "He is My Dilan 1990",
+    "sinopsis" : "ia adalah Dilanku Tahun 1990 edisi 1 berwarna biru muda dengan tokoh Dilan dan sepeda motornya yang dijadikan covernya.  Nah, gambar Dilan yang menggunakan seragam SMA dengan gaya yang sangat santai  yang terletak di Cover diilustrasikan sendiri  oleh sang penulis Pidi Baiq. Gambar yang terdapat di cover menjadi ciri dari isi novel yang menggambarkan kehidupan remaja. Dibawah gambar Dilan tercantum quotes Pidi Baiq menambah kesan menarik bagi sampulnya.",
+    "penulis" : "PD baik",
+    "genre" : "Teen-lit"
+},
+{
+    "buku_id" : 2,
+    "isbn" : 6028066648,
+    "judul" : "Marmut Merah Jambu",
+    "sinopsis" : "Marmut Merah Jambu adalah buku karya Raditya Dika kelima yang diterbitkan pada tahun 2010. Masih berkonsepkan cerita komedi yang ditulis berdasarkan kisah sang penulis seperti dalam buku-buku sebelumnya. Garis besar buku ini menceritakan kisah asmara penulis mapun orang terdekatnya, termasuk saat menjalin kasih dengan penyanyi Indonesia, Sherina Munaf. Buku ini berisi 222 halaman.",
+    "penulis" : "Raditya Dika",
+    "genre" : "Slice-of-Life"
+},
+{
+    "buku_id" : 3,
+    "isbn" : 9797800568,
+    "judul" : "Cinta Brontosaurus",
+    "sinopsis" : "Cinta Brontosaurus adalah buku karya Raditya Dika kedua yang diterbitkan pada tahun 2006. Berbeda dengan buku pertamanya, di buku kedua ini lebih berkonsep cerita sebagai sebuah cerita-cerita pendek, tidak sebagai sebuah buku harian. Buku ini berisi 152 halaman, yang dituliskan masih berdasarkan kejadian asli dari sang penulis.",
+    "penulis" : "Raditya Dika",
+    "genre" : "Slice-of-Life"
+}
+]
